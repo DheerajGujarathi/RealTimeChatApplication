@@ -1,0 +1,14 @@
+node_modules/
+.env
+uploads/
+*.log
+.DS_Store
+
+# Client folders
+client/
+client/node_modules/
+client/build/
+client-manual/node_modules/
+client-manual/build/
+
+dist/
