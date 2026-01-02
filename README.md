@@ -220,15 +220,19 @@ npm run dev:full
 ![Login Page](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/login.png)
 *Sign in to continue chatting*
 
-### Start a Conversation
+### Start a Conversation - User List
 ![Start Conversation](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/start-conversation.png)
 *Browse and select users to start a private chat*
 
 ### Main Chat Interface
 ![Main Chat](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/main-chat.png)
-*Real-time messaging with sidebar navigation*
+*Real-time messaging with sidebar navigation and online/offline status*
 
-### Chat with File Sharing
+### Sidebar with Online/Offline Status
+![Sidebar Status](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/sidebar-status.png)
+*View all chats with real-time online/offline indicators*
+
+### Chat Window with File Sharing
 ![Chat Window](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/chat-window.png)
 *Send messages, share files, and view media inline*
 
