@@ -210,6 +210,32 @@ cd server
 npm run dev:full
 ```
 
+## 📸 Screenshots
+
+### Sign Up / Create Account
+![Sign Up Page](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/signup.png)
+*Create a new account to join the conversation*
+
+### Login
+![Login Page](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/login.png)
+*Sign in to continue chatting*
+
+### Start a Conversation
+![Start Conversation](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/start-conversation.png)
+*Browse and select users to start a private chat*
+
+### Main Chat Interface
+![Main Chat](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/main-chat.png)
+*Real-time messaging with sidebar navigation*
+
+### Chat with File Sharing
+![Chat Window](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/chat-window.png)
+*Send messages, share files, and view media inline*
+
+### Profile Settings
+![Profile Settings](https://raw.githubusercontent.com/DheerajGujarathi/RealTimeChatApplication/main/screenshots/profile-settings.png)
+*Customize your profile with photo, about section, and more*
+
 ## 🎯 Usage
 
 1. **Register** - Create a new account with username, email, and password
